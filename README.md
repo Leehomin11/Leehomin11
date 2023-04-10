@@ -50,6 +50,7 @@ X
   
 [![Solved.ac
 darksoulsiii](http://mazassumnida.wtf/api/mini/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
+  
 [![Solved.ac
 darksoulsiii](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii) 
 [![Solved.ac
