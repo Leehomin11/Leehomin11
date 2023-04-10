@@ -3,6 +3,15 @@
 
 <div align="center">
   
+  
+  
+  
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SN00.PY%EC%82%AC%EC%9E%A5%EC%9D%B8+GUCCUD42%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%9E%98%EB%B6%80%ED%83%81%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+  
+  
+  
+  
 14NGU4GE2
   
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=##A8B9CC"/></a> 
@@ -40,7 +49,11 @@ X
 これは完璧です
   
 [![Solved.ac
-darksoulsiii](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
+darksoulsiii](http://mazassumnida.wtf/api/mini/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
+[![Solved.ac
+darksoulsiii](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii) 
+[![Solved.ac
+darksoulsiii](http://mazassumnida.wtf/api/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
 
 
 
