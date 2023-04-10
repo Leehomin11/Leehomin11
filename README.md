@@ -31,7 +31,9 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=#3776AB"/></a>
 <a href="https://twitter.com/annyeonghasal13" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=Twitter&logoColor=#3776AB"/></a>
 
-
+                                                          これは完璧です
+[![Solved.ac
+darksoulsiii](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
