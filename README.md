@@ -32,6 +32,7 @@ M4YBY....
 X
   
 <a href="(https://www.instagram.com/homin0902/)" target="_blank"><img src="https://img.shields.io/badge/1N2T4GR4M-000000?style=flat-square&logo=Instagram&logoColor=#3776AB"/></a>
+<a href="(https://www.instagram.com/00snoo.py/)" target="_blank"><img src="https://img.shields.io/badge/C0MP4NY-000000?style=flat-square&logo=Instagram&logoColor=#3776AB"/></a>
 <a href="(https://www.facebook.com/profile.php?id=100038247066322)" target="_blank"><img src="https://img.shields.io/badge/F4CEB00K-000000?style=flat-square&logo=Facebook&logoColor=#3776AB"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=#3776AB"/></a>
 <a href="https://twitter.com/annyeonghasal13" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=Twitter&logoColor=#3776AB"/></a>
