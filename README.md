@@ -1,6 +1,9 @@
 ### K0n'n1ch1wa m1n na
 
 
+
+
+
 <div align="center">
   
   
@@ -8,7 +11,11 @@
   
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SN00.PY%EC%82%AC%EC%9E%A5%EC%9D%B8+GUCCUD42%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%9E%98%EB%B6%80%ED%83%81%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leehomin11&theme=flat&column=7)](https://github.com/Leehomin11/)
   
   
   
@@ -60,10 +67,18 @@ darksoulsiii](http://mazassumnida.wtf/api/generate_badge?boj=darksoulsiii)](http
 
 
 
-
+My stats
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leehomin11&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leehomin11&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leehomin11&theme=2077)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leehomin11&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leehomin11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
   
+
+ 
   </div>
