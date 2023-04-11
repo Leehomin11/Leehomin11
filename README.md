@@ -25,8 +25,8 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PYTH0N-000000?style=flat-square&logo=Python&logoColor=#3776AB"/></a> 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/J2-000000?style=flat-square&logo=javascript&logoColor=#3776AB"/></a> 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTM1-000000?style=flat-square&logo=Html5&logoColor=#3776AB"/></a> 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C22-000000?style=flat-square&logo=CSS3&logoColor=#3776AB"/></a> 
-  
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C22-000000?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a> 
+ 
   
   
   
@@ -43,25 +43,35 @@
 
 
 M4YBY....
-  
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CL-000000?style=flat-square&logo=CLion&logoColor=#0078D6"/></a> 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/WS-000000?style=flat-square&logo=WebStorm&logoColor=#0078D6"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/1J-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=#3776AB"/></a> 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RD-000000?style=flat-square&logo=Rider&logoColor=#3776AB"/></a> 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PS-000000?style=flat-square&logo=PhpStorm&logoColor=#3776AB"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DG-000000?style=flat-square&logo=DataGrip&logoColor=#3776AB"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PC-000000?style=flat-square&logo=PyCharm&logoColor=#3776AB"/></a>
+
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/EC-000000?style=flat-square&logo=Eclipse IDE&logoColor=#3776AB"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/VSC-000000?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/XC0DE-000000?style=flat-square&logo=Xcode&logoColor=#3776AB"/></a>
+  
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C1-000000?style=flat-square&logo=CLion&logoColor=#0078D6"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/W2-000000?style=flat-square&logo=WebStorm&logoColor=#0078D6"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/1J-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=#3776AB"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RD-000000?style=flat-square&logo=Rider&logoColor=#3776AB"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/P2-000000?style=flat-square&logo=PhpStorm&logoColor=#3776AB"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DG-000000?style=flat-square&logo=DataGrip&logoColor=#3776AB"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PC-000000?style=flat-square&logo=PyCharm&logoColor=#3776AB"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TC-000000?style=flat-square&logo=TeamCity&logoColor=#3776AB"/></a>
+
+
+
+
 
 X
   
 <a href="(https://www.instagram.com/homin0902/)" target="_blank"><img src="https://img.shields.io/badge/1N2T4GR4M-000000?style=flat-square&logo=Instagram&logoColor=#3776AB"/></a>
 <a href="(https://www.instagram.com/00snoo.py/)" target="_blank"><img src="https://img.shields.io/badge/C0MP4NY-000000?style=flat-square&logo=Instagram&logoColor=#3776AB"/></a>
 <a href="(https://www.facebook.com/profile.php?id=100038247066322)" target="_blank"><img src="https://img.shields.io/badge/F4CEB00K-000000?style=flat-square&logo=Facebook&logoColor=#3776AB"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=#3776AB"/></a>
-<a href="https://twitter.com/annyeonghasal13" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=Twitter&logoColor=#3776AB"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/D12C0RD-000000?style=flat-square&logo=Discord&logoColor=#3776AB"/></a>
+<a href="https://twitter.com/annyeonghasal13" target="_blank"><img src="https://img.shields.io/badge/TW1TTER-000000?style=flat-square&logo=Twitter&logoColor=#3776AB"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/2TE4M-000000?style=flat-square&logo=Steam&logoColor=#3776AB"/></a>
+
+
+
 
 これは完璧です
   
