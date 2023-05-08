@@ -48,7 +48,7 @@
 
 
 
-M4YBY....
+M4YBY....(설치만 한것도 있음)
   
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C1-000000?style=flat-square&logo=CLion&logoColor=#0078D6"/></a> 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/W2-000000?style=flat-square&logo=WebStorm&logoColor=#0078D6"/></a>
