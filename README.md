@@ -1,9 +1,9 @@
-### backend_developer가 꿈인 학생입니다.
+### backend_developer가 꿈인 M.X.G입니다.
 
 
----GBSW(3기)-{소프트웨어개발과}
+GBSW(3기)-{소프트웨어개발과}
 
-SNOO.PY - team_leader
+SNOO_PY - team_leader
 
 <div align="center">
   
@@ -15,12 +15,12 @@ SNOO.PY - team_leader
 ### 🕹️solved🕹️
 -------------------------------
 
-darksoulsiii
+darksoulsiii[SII]
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
 
-open0209
+open0209[BII]
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=open0209)](https://solved.ac/open0209/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=open0209)](https://solved.ac/open0209)
@@ -36,9 +36,9 @@ open0209
 ⚙️Frontend
 -------------------------------
   
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=23E34F26" />
+<img src="https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black" />
   
   
   
@@ -46,8 +46,8 @@ open0209
 🔩Backend
 -------------------------------
 
-<img src="https://img.shields.io/badge/Node.js-%339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black" />
   
   
   
@@ -55,24 +55,25 @@ open0209
 🔧Package manager 
 -------------------------------
   
-<img src="https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=44A833" />
   
   
 💻IDEs, Editors
 -------------------------------
 
-<img src="https://img.shields.io/badge/clion-black?style=for-the-badge&logo=clion&logoColor=white" />
-<img src="https://img.shields.io/badge/intellij_idea-black?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/webstorm-black?style=for-the-badge&logo=webstorm&logoColor=white" />
-<img src="https://img.shields.io/badge/visualstudiocode-skyblue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/eclipseide-purple?style=for-the-badge&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/clion-white?style=for-the-badge&logo=clion&logoColor=black" />
+<img src="https://img.shields.io/badge/intellij_idea-white?style=for-the-badge&logo=intellijidea&logoColor=black" />
+<img src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black" />
+<img src="https://img.shields.io/badge/webstorm-white?style=for-the-badge&logo=webstorm&logoColor=black" />
+<img src="https://img.shields.io/badge/visualstudiocode-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/xcode-white?style=for-the-badge&logo=xcode&logoColor=147EFB" />
+<img src="https://img.shields.io/badge/eclipseide-orange?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
   
 🔐packet analyzer
 -------------------------------
   
-<img src="https://img.shields.io/badge/wireshark-skyblue?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/wireshark-gray?style=for-the-badge&logo=wireshark&logoColor=darkblue" />
   
 📋language
 -------------------------------
@@ -81,6 +82,27 @@ open0209
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   
+🖥️operating system  
+--------------------------------
+
+<img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=black" /> 
   
+⚒️others
+---------------------------------
+  
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=F37626" />  
+<img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white" /> 
+
+🖥️web browser
+---------------------------------
+  
+<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/safari-white?style=for-the-badge&logo=safari&logoColor=blue" />
+<img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" />
+<img src="https://img.shields.io/badge/brave-white?style=for-the-badge&logo=brave&logoColor=FB542B" />
   
 </div>
