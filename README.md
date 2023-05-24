@@ -20,7 +20,7 @@ darksoulsiii[SII]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
 
-open0209[BII]
+open0209[SV]
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=open0209)](https://solved.ac/open0209/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=open0209)](https://solved.ac/open0209)
