@@ -15,7 +15,7 @@ SNOO_PY - team_leader
 ### 🕹️solved🕹️
 -------------------------------
 
-darksoulsiii[SII]
+darksoulsiii[SI]
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
