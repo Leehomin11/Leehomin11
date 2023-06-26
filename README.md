@@ -102,6 +102,7 @@ open0209[SV]
 <img src="https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 <img src="https://img.shields.io/badge/safari-white?style=for-the-badge&logo=safari&logoColor=blue" />
 <img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" />
+<img src="https://img.shields.io/badge/firefox_dev-black?style=for-the-badge&logo=firefoxbrowser&logoColor=blue" />
 <img src="https://img.shields.io/badge/brave-white?style=for-the-badge&logo=brave&logoColor=FB542B" />
   
 </div>
