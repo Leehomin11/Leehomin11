@@ -1,5 +1,5 @@
 ### backend_developer가 꿈인 M.X.G입니다.
-
+-- 취미(white hat)
 
 GBSW(3기)-{소프트웨어개발과}
 
