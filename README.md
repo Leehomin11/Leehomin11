@@ -69,6 +69,12 @@ open0209[SV]
 <img src="https://img.shields.io/badge/visualstudiocode-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/xcode-white?style=for-the-badge&logo=xcode&logoColor=147EFB" />
 <img src="https://img.shields.io/badge/eclipseide-orange?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
+
+🔎cloud computing (studying)
+-------------------------------
+
+<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonaws&logoColor=darkblue" />
   
 🔐packet analyzer
 -------------------------------
@@ -94,6 +100,7 @@ open0209[SV]
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=F37626" />  
 <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white" /> 
+<img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange" /> 
 
 🖥️web browser
 ---------------------------------
