@@ -47,7 +47,7 @@ open0209[SV]
 -------------------------------
 
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black" />
+<img src="https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=express&logoColor=black" />
   
   
   
