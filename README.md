@@ -39,8 +39,7 @@ open0209[SV]
 <img src="https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=23E34F26" />
 <img src="https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black" />
-  
-  
+<img src="https://img.shields.io/badge/Sass-white.svg?style=for-the-badge&logo=sass&logoColor=pink" />
   
 
 🔩Backend
