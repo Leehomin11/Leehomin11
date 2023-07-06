@@ -7,11 +7,6 @@ SNOO_PY - team_leader
 
 <div align="center">
   
-### 📠OPGC📠
--------------------------------
-
-<a href="https://opgc.me/#/users/Leehomin11" target="_blank"><img src="https://api.opgc.me/githubs/users/Leehomin11/tag/?theme=basic" /></a>
-  
 ### 🕹️solved🕹️
 -------------------------------
 
