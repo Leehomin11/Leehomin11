@@ -42,13 +42,8 @@ darksoulsiii[GV]
 💻IDEs, Editors
 -------------------------------
 
-<img src="https://img.shields.io/badge/clion-white?style=for-the-badge&logo=clion&logoColor=black" />
-<img src="https://img.shields.io/badge/intellij_idea-white?style=for-the-badge&logo=intellijidea&logoColor=black" />
-<img src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black" />
-<img src="https://img.shields.io/badge/webstorm-white?style=for-the-badge&logo=webstorm&logoColor=black" />
 <img src="https://img.shields.io/badge/visualstudiocode-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/xcode-white?style=for-the-badge&logo=xcode&logoColor=147EFB" />
-<img src="https://img.shields.io/badge/eclipseide-orange?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
 
 🔎cloud computing (studying)
 -------------------------------
