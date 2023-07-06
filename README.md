@@ -78,7 +78,8 @@ darksoulsiii[GV]
   
 <img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=black" /> 
+<img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=black" />
+<img src="https://img.shields.io/badge/ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=orange" /> 
 
 
 <div align=center>
