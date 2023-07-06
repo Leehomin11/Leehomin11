@@ -1,9 +1,6 @@
-### backend_developer가 꿈인 M.X.G입니다.
--- 취미(white hat)
+### GBSW(3기)-{소프트웨어개발과}
 
-GBSW(3기)-{소프트웨어개발과}
-
-SNOO_PY - team_leader
+### SNOO_PY - team_leader
 
 <div align="center">
   
