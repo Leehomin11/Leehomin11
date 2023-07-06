@@ -15,17 +15,6 @@ darksoulsiii[GV]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii)
 
-open0209[SV]
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=open0209)](https://solved.ac/open0209/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=open0209)](https://solved.ac/open0209)
-  
-  
-### 📊Github_streak_state📊
--------------------------------
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leehomin11&theme=swift)](https://git.io/streak-stats)
-  
 ### ⛏️Tech_stack⛏️
   
 ⚙️Frontend
