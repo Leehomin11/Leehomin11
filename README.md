@@ -1,5 +1,4 @@
-### GBSW(3기)-{소프트웨어개발과}
-
+### GBSW(3기)
 ### SNOO_PY - team_leader
 
 <div align="center">
