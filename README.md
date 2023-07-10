@@ -47,7 +47,7 @@ darksoulsiii[GV]
 
 
   
-<img src="https://img.shields.io/badge/wireshark-gray?style=for-the-badge&logo=wireshark&logoColor=darkblue" />
+<img src="https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=darkblue" />
 
 
 
