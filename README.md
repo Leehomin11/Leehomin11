@@ -17,7 +17,6 @@ darksoulsiii[GV]
 
 <img src="https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=23E34F26" />
 <img src="https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Sass-white.svg?style=for-the-badge&logo=sass&logoColor=pink" />
 <img src="https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=yellow" />
 <img src="https://img.shields.io/badge/next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black" />
   
@@ -37,13 +36,6 @@ darksoulsiii[GV]
 
 <img src="https://img.shields.io/badge/visualstudiocode-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/xcode-white?style=for-the-badge&logo=xcode&logoColor=147EFB" />
-
-
-
-
-<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonaws&logoColor=darkblue" />
-
 
 
   
