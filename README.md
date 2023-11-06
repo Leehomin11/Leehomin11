@@ -60,6 +60,12 @@ darksoulsiii[GV]
 
 <div align=center>
 
+### ultimate goal
+
+----------------
+
+<img src="https://img.shields.io/badge/assemblyscript-white?style=for-the-badge&logo=assemblyscript&logoColor=007AAC" /> 
+
 ### O.S.
 
 ----------------
