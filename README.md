@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black" />
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/homebrew-FBB040.svg?style=for-the-badge&logo=homebrew&logoColor=white" />
+<img src="https://img.shields.io/badge/wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 <div align=center>
 
