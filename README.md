@@ -1,4 +1,4 @@
-### GBSW(3기)
+### GBSW
 
 <div align="center">
   
