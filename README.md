@@ -11,51 +11,11 @@ darksoulsiii[GV]
 
 ### ⛏️Tech_stack⛏️
 
-<div align="left">
-  
-<img src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white" />  
-<img src="https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=23E34F26" />
-<img src="https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=yellow" />
+------------------
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black" />
-  
-
-
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=express&logoColor=black" />
-  
-  
-  
-  
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=44A833" />
-  
-  
-
-
-<img src="https://img.shields.io/badge/visualstudiocode-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/xcode-white?style=for-the-badge&logo=xcode&logoColor=147EFB" />
-
-
-  
-<img src="https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=darkblue" />
-
-
-
-  
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
-
-
-
-  
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=F37626" />  
-<img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white" /> 
-<img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange" /> 
-
-
 
 
 <div align=center>
@@ -80,13 +40,3 @@ darksoulsiii[GV]
 
 <div align=center>
   
-### web
-  
--------------
-
-</div>
-<img src="https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/firefox_dev-black?style=for-the-badge&logo=firefoxbrowser&logoColor=blue" />
-<img src="https://img.shields.io/badge/brave-white?style=for-the-badge&logo=brave&logoColor=FB542B" />
-  
-</div>
