@@ -5,8 +5,6 @@
 ### 🕹️solved🕹️
 -------------------------------
 
-darksoulsiii[GV]
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii/)
 
 ### ⛏️Tech_stack⛏️
