@@ -13,7 +13,7 @@ darksoulsiii[GV]
 
 <div align="left">
   
-<img src="https://img.shields.io/badge/swift-white.svg?style=for-the-badge&logo=swift&logoColor=F05138" />  
+<img src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white" />  
 <img src="https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=23E34F26" />
 <img src="https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=yellow" />
