@@ -24,7 +24,7 @@
 
 ----------------
 
-<img src="https://img.shields.io/badge/assemblyscript-white?style=for-the-badge&logo=assemblyscript&logoColor=007AAC" /> 
+<img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white" /> 
 
 ### O.S.
 
