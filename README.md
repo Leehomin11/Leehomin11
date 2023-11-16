@@ -1,15 +1,15 @@
 
 
 <div align="center">
-  
-### 🕹️solved🕹️
--------------------------------
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darksoulsiii)](https://solved.ac/darksoulsiii/)
+-----------------
+
+### You have successfully executed get flag on a target account!
+
+
 
 ### ⛏️Tech_stack⛏️
-
-------------------
+-------------------
 
 <div align="center">
 
