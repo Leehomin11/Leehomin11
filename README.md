@@ -10,7 +10,7 @@
 
 ### lang
 -----------------
-C, java, python
+C, Java, Python, Dart
 
 ### ⛏️Tech_stack⛏️
 -------------------
