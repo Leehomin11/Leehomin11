@@ -29,6 +29,8 @@ C, Java, Python, Dart
 ----------------
 
 <img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black" /> 
 
 ### O.S.
 
