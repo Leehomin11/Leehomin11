@@ -24,13 +24,14 @@ C, Java, Python, Dart
 
 <div align=center>
 
-### ultimate goal
+### learning
 
 ----------------
 
 <img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" /> 
+<img src="https://img.shields.io/badge/wasmer-4946DD?style=for-the-badge&logo=wasmer&logoColor=white" /> 
 
 ### O.S.
 
