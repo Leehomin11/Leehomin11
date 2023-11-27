@@ -10,7 +10,11 @@
 
 ### lang
 -----------------
-C, Java, Python, Dart
+<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/java-437291.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
+
 
 ### ⛏️Tech_stack⛏️
 -------------------
