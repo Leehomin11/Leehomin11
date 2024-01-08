@@ -37,10 +37,10 @@
 
 ----------------
 
-<img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> 
 <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" /> 
-<img src="https://img.shields.io/badge/wasmer-4946DD?style=for-the-badge&logo=wasmer&logoColor=white" /> 
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
 ### O.S.
 
