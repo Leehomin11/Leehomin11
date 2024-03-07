@@ -16,10 +16,12 @@
 </div>
 
 
+<div align="center">
+
 ### ⛏️Tech_stack⛏️
 -------------------
 
-<div align="center">
+
 
 <img src="https://img.shields.io/badge/next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black" />
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
