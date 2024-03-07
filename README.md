@@ -4,8 +4,6 @@
 
 <div align="center">
 
-</div>
-
 
 
 ### lang
@@ -15,7 +13,7 @@
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
 
-
+</div>
 ### ⛏️Tech_stack⛏️
 -------------------
 
