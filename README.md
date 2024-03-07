@@ -4,8 +4,7 @@
 
 <div align="center">
 
-
-![시에스타](https://github.com/Leehomin11/Leehomin11/assets/108207397/fe9200a9-2eea-4afc-863e-dc0540658b34)
+</div>
 
 
 
