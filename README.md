@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=white" /> 
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=Firebase&logoColor=FFCA28" /> 
+<img src="https://img.shields.io/badge/nestjs-gray?style=for-the-badge&logo=nestjs&logoColor=E0234E" /> 
 
 ### O.S.
 
