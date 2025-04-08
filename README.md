@@ -12,4 +12,6 @@ _   _      _ _        __        __         _     _ _
 <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,spring" /></br>
 <img src="https://skillicons.dev/icons?i=nestjs,mysql,express,flutter,firebase,postgres" /></br>
 <img src="https://skillicons.dev/icons?i=idea,androidstudio,vim,vscode,sublime,anaconda" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
